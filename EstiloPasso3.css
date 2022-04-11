@@ -1,0 +1,77 @@
+.botaosair{
+    position:absolute;
+    background-color: #E50914;
+    width: 100px;
+    height: 40px;
+    right: 50px;
+    margin-top: 40px;
+    border-radius: 5px;
+    border: #E50914;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-style: bold;
+}
+
+.logo{
+position: absolute;
+left: 50px;
+width: 200px;
+margin-bottom: 60px;
+margin-top: 22px;
+
+}
+
+hr{
+    border-color: #E50914;
+    border-width: 3px;
+
+}
+
+h1{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+form{
+    text-align: center;
+    
+}
+
+h4{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+h7{
+    text-align: center;
+}
+
+#Email {
+    width: 220px;
+    height: 30px;
+    text-align: center;
+}
+
+#Senha{
+    width:220px;
+    height:30px;
+    text-align: center;
+}
+
+#botaoEnviar{
+    width: 170px;
+    height: 40px;
+    background-color: #E50914;
+    border: #E50914;
+    color: #FFFFFF;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 50px;
+}

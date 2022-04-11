@@ -1,0 +1,85 @@
+.botaosair{
+    position:absolute;
+    background-color: #E50914;
+    width: 100px;
+    height: 40px;
+    right: 50px;
+    margin-top: 40px;
+    border-radius: 5px;
+    border: #E50914;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-style: bold;
+}
+
+.logo{
+position: absolute;
+left: 50px;
+width: 200px;
+margin-bottom: 60px;
+margin-top: 22px;
+
+}
+
+/* Red border */
+hr{
+  border-top: 5px solid red;
+}
+
+h3{
+font: 20px Arial;
+font-weight: bold;
+
+}
+
+form{
+    text-align: center;
+}
+
+h4{
+    font: normal 15px Arial;
+}
+
+.planos{
+    align-items: center;
+    border-spacing: 220px 0px;
+    font-size: 20px;
+    width: 100%;
+   
+}
+
+.resolucao{
+    align-items: center;
+    border-spacing: 190px 0px;
+    font-size: 19px;
+    width: 100%;
+}
+
+.valores{
+    align-items: center;
+    border-spacing: 200px 0px;
+    font-size: 20px;
+    width: 100%;
+}
+
+h2{
+     text-align: center;
+}
+
+h5{
+
+    font-family: 5px;
+    font: normal 15px Arial;    
+    border-top: 5px solid red;   
+}
+
+#botaoEnviar{
+    width: 170px;
+    height: 40px;
+    background-color: #E50914;
+    border: #E50914;
+    color: #FFFFFF;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 20px;
+}

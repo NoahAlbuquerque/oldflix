@@ -1,0 +1,189 @@
+
+body{
+    background-color: #222222;
+}
+
+.botaoentrar{
+    position:absolute;
+    background-color: #E50914;
+    width: 100px;
+    height: 40px;
+    right: 50px;
+    margin-top: 40px;
+    border-radius: 5px;
+    border: #E50914;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-style: bold;
+}
+
+.logo{
+position: absolute;
+left: 50px;
+width: 200px;
+margin-bottom: 60px;
+margin-top: 22px;
+
+}
+
+
+
+.fundochapeu{
+	width: 100%;
+}
+
+
+
+.titulo-principal{
+    font-size: 22px;
+	position: absolute;
+	color: white;
+	top: 385px;
+	margin-left: 500px;
+    width: 380px;
+    text-align: center;
+}
+
+
+#botaoIniciar{
+    
+    margin-right:-40px;
+    background-color: #E50914;
+    width: 230px; 
+    height: 40px;
+    border-radius: 5px;
+    border: #E50914;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-style: bold;
+   
+}
+
+
+#contato{
+	font-size: 19px;
+    color: #FFFFFF;
+    list-style: none;
+    float: left;  
+}
+
+#redes-sociais{
+	font-size: 19px;
+    color: #FFFFFF;
+    float: right;
+    list-style: none;
+}
+
+a {
+    color: #FFFFFF;
+    text-decoration: none;
+
+    }
+    
+#direitosautorais{
+	font-size: 18px;
+    color: #FFFFFF;
+    text-align: center;
+    list-style: none;
+}
+
+
+
+.rodape{
+    background-color: #222222;
+    opacity: 0.8;
+    margin-top: none;
+}
+
+
+
+/*Está movimentado a caixa do e-mail*/
+
+.label{
+    margin-left: 300px;
+    width: 450px;
+    height: 30px;
+}
+
+.imagem-tv{
+    width: 330px;
+    margin-left: 950px;
+
+}
+
+.texto-tv{
+    top: 1280px;
+    position: absolute;
+    text-align: left;
+    list-style: none;
+    color: #FFFFFF; 
+}
+
+.mockupcelular{
+    width: 330px;
+}
+
+.textocelular{
+    line-height: 4mm;
+    position: absolute;
+    top: 1550px;
+    right: 100px;
+    text-align: right;
+    list-style: none;
+    color: #FFFFFF;
+}
+
+.mockup-dispositivos{
+    right: 00px;
+    position: absolute;
+    width: 300px;
+}
+
+.texto-mockup{
+    text-align: left;
+    list-style: none;
+    color: #FFFFFF;
+}
+
+.imgdesenho{
+    position: absolute;
+    width: 330px;
+
+}
+
+.kidsEscrita{
+    list-style: none;
+    color: #FFFFFF;
+    text-align: right;
+    margin-top: 120px;
+}
+
+hr{
+    border-color: #E50914;    
+}
+
+#contato{
+    color: #FFFFFF;
+    list-style: none;
+    float: left;
+    
+}
+
+#redes-sociais{
+    color: #FFFFFF;
+    float: right;
+    list-style: none;
+}
+
+a {
+color: #FFFFFF;
+text-decoration: none;
+
+}
+
+#direitosautorais{
+    color: #FFFFFF;
+    text-align: center;
+    list-style: none;
+
+}

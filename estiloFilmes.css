@@ -1,0 +1,82 @@
+body{
+    background-color: #222222;
+}
+
+.botaosair{
+    position:absolute;
+    background-color: #E50914;
+    width: 100px;
+    height: 40px;
+    right: 50px;
+    margin-top: 40px;
+    border-radius: 5px;
+    border: #E50914;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-style: bold;
+}
+
+.logo{
+position: absolute;
+margin-left: 50px;
+width: 200px;
+margin-bottom: 60px;
+margin-top: 22px;
+
+}
+
+.imgCapaDevoltaProFuturo{
+    width: 100%;
+}
+
+h3{
+    color: #FFFFFF;
+    margin-left: 70px;
+}
+
+.primeiraLista{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.segundaLista{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.terceiraLista{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+hr{
+    border-color: #E50914;    
+}
+
+#contato{
+    color: #FFFFFF;
+    list-style: none;
+    float: left;
+    
+}
+
+#redes-sociais{
+    color: #FFFFFF;
+    float: right;
+    list-style: none;
+}
+
+a {
+color: #FFFFFF;
+text-decoration: none;
+
+}
+
+#direitosautorais{
+    color: #FFFFFF;
+    text-align: center;
+    list-style: none;
+
+}

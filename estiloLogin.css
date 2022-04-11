@@ -1,0 +1,125 @@
+body{
+    background-color: #222222;
+}
+.botaosair{
+    position:absolute;
+    background-color: #E50914;
+    width: 100px;
+    height: 40px;
+    right: 50px;
+    margin-top: 40px;
+    border-radius: 5px;
+    border: #E50914;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-style: bold;
+}
+
+.logo{
+position: absolute;
+margin-left: 50px;
+width: 200px;
+margin-bottom: 60px;
+margin-top: 22px;
+
+}
+
+#imgfundo{
+    width: 100%;
+}
+
+.telaLogin{
+    position: absolute;
+    color:#fff;
+    text-align: center;
+    top: 100px;
+    width: 100%;
+    line-height: 30px;   
+}
+
+form {
+    position: relative;
+    background-color: #222222;
+    opacity: 0.8;
+    width: 400px;
+    height: 400px;
+    margin-left: 500px;
+
+}
+
+h2{
+    background-color: #222222;
+    margin-left: 500px;
+    margin-right: 300px;
+    width: 400px;
+    margin-bottom: 20px;
+    opacity: 0.8;
+}
+
+#email{
+    width: 200px;
+    height: 30px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+#senha{
+    width: 200px;
+    height: 30px;
+    text-align: center;
+}
+
+#botaoEntrar{
+    margin-right:-40px;
+    background-color: #E50914;
+    width: 230px;
+    height: 40px;
+    border-radius: 5px;
+    border: #E50914;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-style: bold;
+}
+
+.paragrafos{
+    position: relative;
+    text-align: center;
+    margin-bottom: 200px;
+}
+
+#paragrafo2{
+    margin-left: 20px;
+
+}
+
+#contato {
+    color: #FFFFFF;
+    list-style: none;
+    float: left;  
+}
+
+#redes-sociais{
+    color: #FFFFFF;
+    float: right;
+    list-style: none;
+}
+
+a {
+    color: #FFFFFF;
+    text-decoration: none;
+
+    }
+    
+#direitosautorais{
+    color: #FFFFFF;
+    text-align: center;
+    list-style: none;
+}
+
+
+
+.rodape{
+    background-color: #222222;
+    opacity: 0.8;
+    margin-top: none;
+}

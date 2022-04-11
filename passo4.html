@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang=pt>
+<head>
+    <meta charset=UTF-8>
+    <meta http-equiv=X-UA-Compatible content=IE=edge>
+    <meta name=viewport content=width=device-width, initial-scale=1.0>
+    <link rel=stylesheet href=EstiloPasso4.css> 
+    <title>Passo 4 De 4</title>
+</head>
+<body>
+    <!-- Aqui está o logo do site e o botão de sair --> 
+    <div>
+        <img class=logo src="imagens/logo2.png" alt="Logo com o nome da empresa, escrito oldflix, no tom vermelho.">
+        <a href="index.html">
+            <button class="botaosair">Sair</button>
+        </a>
+    </div><br><br><br><br><br>
+    <hr>
+    <!-- Inicio do formulário -->
+    <h2>PASSO 4 DE 4</h2>
+    <h4>Sua assinatura começa assim que você confirmar o pagamento.
+        <br>Sem compromisso. Cancele quando quiser.<br></h4> <h3>Informe os dados do seu cartão de crédito ou débito</h3>
+    <form>
+    <label for="email">Nome:</label>
+    <input id="NomeCompleto" placeholder=" Insira seu nome completo"><br><br>
+
+        <h5>Dados do Cartão:</h5>
+    <label for="email">Número do Cartão:</label>
+    <input type="text" id="numerodocartao"  placeholder="Número do cartão"><br><br>
+
+    <label for="email">Data de validade:</label>
+    <input type="text" id="datadevalidade"  placeholder="Data de validade(MM/AA)"><br><br>
+
+    <label for="email">Número do Cartão:</label>
+    <input type="text" id="codigodesegurança"  placeholder="Código de segurança(CVV)"><br><br>
+    
+        <p><h7>Escolha sua forma de pagamento preferida:</h7></p>
+        <input type="radio" id="crédito" name="cartao" value="Crédito"> Crédito
+        
+        <input type="radio" id="débito" name="cartao" value="Débito"> Débito<br>
+         <!-- Aqui está o botão para iniciar assinatura -->
+        <a href="login.html">
+            <br><input type="button" value="Iniciar Assinatura" id="botaoEnviar">
+        </a>
+    </form>
+</body>
+</html>
